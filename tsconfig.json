@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "target": "ES5",
+        "jsx": "preserve",
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "sourceMap": true,
+        "outDir": "jsScripts/"
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
